@@ -1,7 +1,7 @@
 # Concrete-Strength-Prediction
 
 ## Context
-Concrete is one of the most important materials in civil engineering. The concrete compressive strength is a strong non-linear relationship between age and different materials. Concrete is a material with high strength in compression, but low strength in tension. Because of that, engineers use reinforced concrete to differint building purposes. For example, the strength of concrete used for residential buildings should not be lower than 2500 psi, which corresponds to 17 MPa.
+Predicting the strength of concrete with data is highly beneficial as it allows engineers and construction professionals to accurately assess the structural integrity of a building or infrastructure project. By analyzing data related to concrete composition, curing conditions, and environmental factors, predictions can help optimize material usage, reduce costs, and ensure the safety and durability of the structure, ultimately leading to more efficient and sustainable construction practices.
 
 The dataset contains 1030 instances and 9 attributes, of which 8 are quantitative input variables and 1 quantitative output variable. Furthermore, the dataset contains no missing values and is in raw form.
 
